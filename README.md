@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @amit018-hub
 - 👀 I’m interested in Web Developement, Blockchain & AI
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate 
+- 💞️ I’m looking to collaborate for my Blog Portfolio
 - 📫 How to reach me (https://github.com/amit018-hub)
 
 <!---
